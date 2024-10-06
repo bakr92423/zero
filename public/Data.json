@@ -1,0 +1,52 @@
+{
+    "Products":[
+        {
+           "id":1,
+           "name":"Samsung A54",
+           "price":100,
+           "img":"/img/product/product1.jpg"
+        },
+        {
+           "id":2,
+           "name":"Samsung A14",
+           "price":200,
+           "img":"/img/product/product2.jpg"
+        },
+        {
+           "id":3,
+           "name":"Dell",
+           "price":500,
+           "img":"/img/product/product3.jpg"
+        },
+        {
+           "id":4,
+           "name":"HeadPhone",
+           "price":200,
+           "img":"/img/product/product4.jpg"
+        },
+        {
+           "id":5,
+           "name":"Earphone",
+           "price":30,
+           "img":"/img/product/product5.jpg"
+        },
+        {
+           "id":6,
+           "name":"Honor 90 Lite",
+           "price":600,
+           "img":"/img/product/product6.jpg"
+        },
+        {
+           "id":7,
+           "name":"Samsung A13",
+           "price":300,
+           "img":"/img/product/product7.jpg"
+        },
+        {
+           "id":8,
+           "name":"Watch KS2",
+           "price":250,
+           "img":"/img/product/product8.jpg"
+        }
+    ]
+}
